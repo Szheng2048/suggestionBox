@@ -1,0 +1,18 @@
+{
+  "name": "suggestionbox",
+  "version": "1.0.0",
+  "description": "- Use Postman and Robo 3T to test your routes\r - Use MongoDB and Mongoose and name the database `suggestion-box`\r - Use Async and Await (Don't forget the try and catch block)\r - Use controllers for business logic.\r - Remember to install your dependencies (mongoose)`\r - Only `.gitignore` the `node_modules`",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "morgan": "^1.10.0"
+  }
+}
